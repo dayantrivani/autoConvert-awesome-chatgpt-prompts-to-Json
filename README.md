@@ -4,11 +4,9 @@ README
 
 This project involves checking whether the `prompts.csv` file from the [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) repository has been updated. If an update is available, the new version is acquired and converted to a JSON file format. 
 
-The JSON file is used in the Prompt Store on https://chatbot.theb.ai/ for now. 
-
 ## Usage
 
-The prompts.json file can be accessed using the following import link: https://raw.githubusercontent.com/lancelotly/autoConvert-awesome-chatgpt-prompts-to-Json/main/prompts.json, and then imported into the Prompt Store for use.
+The prompts.json file can be accessed using the following import link: https://raw.githubusercontent.com/dayantrivani/autoConvert-awesome-chatgpt-prompts-to-Json/main/prompts.json, and then imported into the Prompt Store for use.
 
 ## Updating the Prompts
 

@@ -36,7 +36,6 @@ jobs:
                   pip install csvkit
               fi
 
-              sed -i '1s/act/key/g; 1s/prompt/value/g' prompts.csv
               csvjson prompts.csv > prompts.json
               echo "prompts.csv has been converted to prompts.json."
               
